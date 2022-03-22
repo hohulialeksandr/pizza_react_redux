@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `npm run server`
 
-To start dummy server.\a
+To start dummy server.\
 Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
 
 ### `npm test`
